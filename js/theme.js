@@ -220,39 +220,23 @@
             {
               date: 'Apr 21, 2022',
               content: '<p>NFT Code in<br>Development</p>'
+                },
+            {
+              date: 'June 10, 2022',
+              content: '<p>Advertise Project</p>'
             },
             {
-              date: 'May 25, 2022',
+              date: 'July 19, 2022',
               content: '<p>Project 1 <br> NFT Release</p>'
             },
             {
-                date: 'June 1, 2022',
+              date: 'Oct, 2022',
+              content: '<p>Donation to <br> Foundations</p>'
+            },
+            {
+                date: 'Q3, 2022',
                 content: '<p>Start Project 2 <br> Development</p>'
             },
-            {
-                date: 'Aug, 2022',
-                content: '<p>Donation to <br> Foundations</p>'
-            },
-            {
-                date: 'Q4 - 2022',
-                content: '<p>Project 2 <br> Private Release</p>'
-            },
-            {
-                date: 'Q1 - 2023',
-                content: '<p>IVF Parent Platform <br> development</p>'
-            },
-            {
-                date: 'Q1 - 2023',
-                content: '<p>Project 2 <br> Public Release</p>'
-            },
-            {
-                date: 'Q2 - 2023',
-                content: '<p>Development Started</p>'
-            },
-            {
-                date: 'Q2 - 2023',
-                content: '<p>Development Started</p>'
-                },
             /*
             {
               date: 'Q1 - 2024',
